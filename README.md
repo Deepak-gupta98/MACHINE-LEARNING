@@ -7,3 +7,5 @@
      Running-nose<br> Breathing Problem <br> Body-pain <br> from above characteristics, we know that patient is affected from corona virus or not.
 <h3> Clustering </h3>
  <p> I am using k-means algorithm for clustering and dataset is taken from kaggle</p>
+<h3> Linear Regression </h3>
+ <p> i did linear regression algorithm on the dataset of Advertising is taken from kaggle </p.
